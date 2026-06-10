@@ -1,1 +1,11 @@
-404: Not Found
+# Vivado logs and journals
+vivado.jou
+vivado.log
+vivado_*.jou
+vivado_*.log
+dfx_runtime.txt
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
