@@ -1,0 +1,9 @@
+C:\GUI_CSharpWorkspace\GUI_Example\GUI_Example\bin\Debug\GUI_Example.exe
+C:\GUI_CSharpWorkspace\GUI_Example\GUI_Example\bin\Debug\GUI_Example.pdb
+C:\GUI_CSharpWorkspace\GUI_Example\GUI_Example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\GUI_CSharpWorkspace\GUI_Example\GUI_Example\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\GUI_CSharpWorkspace\GUI_Example\GUI_Example\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\GUI_CSharpWorkspace\GUI_Example\GUI_Example\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\GUI_CSharpWorkspace\GUI_Example\GUI_Example\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\GUI_CSharpWorkspace\GUI_Example\GUI_Example\obj\x86\Debug\GUI_Example.exe
+C:\GUI_CSharpWorkspace\GUI_Example\GUI_Example\obj\x86\Debug\GUI_Example.pdb

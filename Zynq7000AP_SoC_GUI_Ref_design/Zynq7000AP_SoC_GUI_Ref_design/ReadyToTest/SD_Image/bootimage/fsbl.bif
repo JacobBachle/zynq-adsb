@@ -1,0 +1,5 @@
+the_ROM_image:
+{
+	[bootloader]C:\vivado\GUI_Example\GUI_Example.sdk\SDK\SDK_Export\fsbl\Debug\fsbl.elf
+	C:\vivado\GUI_Example\GUI_Example.sdk\SDK\SDK_Export\GUI_App\Debug\GUI_App.elf
+}
